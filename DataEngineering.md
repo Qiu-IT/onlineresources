@@ -12,6 +12,8 @@ You are going to use the SQL code generated above to visualize the schema design
 
 - Hazy Synthetic data generation
 
+- ChartAi for all Charts!
+
 - Tonic.ai Generate secure and scalable synthetic data, when you need it, where you need it
 
 - **Databricks** AutoML helps you automatically apply machine learning to a dataset. You provide the dataset and identify the prediction target, while AutoML prepares the dataset for model training. AutoML then performs and records a set of trials that creates, tunes, and evaluates multiple models. 
