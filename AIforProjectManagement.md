@@ -6,4 +6,4 @@ Note: The majority of these tools offer free access with various levels of funct
 Premium access can be purchased. Availability and fees continue to evolve rapidly. 
 Access the websites shared for additional information. These tools are listed in alphabetical order and are not prioritized.
 
-Top Generative AI Tools for Project Management[]()
+[Top Generative AI Tools for Project Management](https://generative-ai-unleash-your-project-management-po-12704bfd6df239.gitlab.io/readings/Top-Generative-AI-Tools-for-Project-Management.md.html "All AI Tools for PM")
